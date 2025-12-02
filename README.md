@@ -1,5 +1,10 @@
 ## Clickbait & Hate Speech Detection Research
 ![social network graphic](assets/socialnetworkgraphic.png)
-This repository contains my experiments on detecting clickbait and hate-speech content in social media posts using ML/NLP techniques. It includes code for preprocessing social media text (Instagram captions, YouTube descriptions), building features via topic modeling (LSA, LDA) and BERT embeddings, and training classification models (SVM, logistic regression, K-NN) to predict whether a post is “clickbait” or “non-clickbait” (or similarly, potential hate-speech). This work contributed to two papers I worked on through my freshman and sophomore years, one of which I was listed as a co-author: [Topic Modeling-Driven Feature Engineering to Enhance Clickbait Detection in Social Networks](https://ieeexplore.ieee.org/document/10786672) (listed as co-author) & [A Data-Driven Strategy for Online Hate Speech Spreader Identification using Modified Pagerank](https://csitcp.org/abstract/13/1319csit16) (Contributed to the work, not an author). 
+This repository contains my experiments on detecting clickbait and hate-speech content in social media posts using ML/NLP techniques. It includes code for preprocessing social media text (Instagram captions, YouTube descriptions), building features via topic modeling (LSA, LDA) and BERT embeddings, and training classification models (SVM, logistic regression, K-NN) to predict whether a post is “clickbait” or “non-clickbait” (or similarly, potential hate-speech). 
+
+This work contributed to two papers, one of which I was listed as a co-author: 
+* [Topic Modeling-Driven Feature Engineering to Enhance Clickbait Detection in Social Networks](https://ieeexplore.ieee.org/document/10786672) (listed as co-author)
+* [A Data-Driven Strategy for Online Hate Speech Spreader Identification using Modified Pagerank](https://csitcp.org/abstract/13/1319csit16) (contributed to the work, not an author). 
+
 
 
